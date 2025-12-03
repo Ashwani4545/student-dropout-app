@@ -5,8 +5,6 @@
 This project is designed to build an **Artificial Intelligence (Machine Learning) system** that predicts whether a student is likely to drop out of school based on various factors such as demographics, academic performance, socio-economic status, and attendance.  
 The system also explains the key reasons contributing to the dropout risk, helping school administrators take informed actions.
 
----
-
 ## 🌳 Student Dropout Prediction App
 
 This is a **Streamlit-based dashboard** that predicts the risk of a student dropping out of school and explains the top reasons contributing to the risk.
