@@ -7,6 +7,11 @@ The system also explains the key reasons contributing to the dropout risk, helpi
 
 ---
 
+# 🌳 Student Dropout Prediction App
+
+This is a **Streamlit-based dashboard** that predicts the risk of a student dropping out of school and explains the top reasons contributing to the risk.
+
+
 ## ✅ Problem Statement
 
 > Design a machine learning system that predicts student dropout risk and provides interpretable reasons behind the risk using structured data.
