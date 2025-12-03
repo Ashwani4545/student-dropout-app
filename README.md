@@ -38,7 +38,12 @@ The system uses the following input features:
 
 ---
 
+## **Features**
 
+- Input student demographic, academic, and socio-economic data
+- Predicts dropout probability (Yes/No + %)
+- Shows top 3 features contributing to the prediction
+- Easy-to-use interactive dashboard
 
 ## ✅ System Outputs
 
