@@ -105,6 +105,16 @@ You can also use any structured dataset in CSV format with similar features.
 
 ---
 
+## **Installation (Local)**
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/student-dropout-app.git
+cd student-dropout-app
+```
+
+
 ## ✅ How to Run the System
 
 1. Install required Python packages:
